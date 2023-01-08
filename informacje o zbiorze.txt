@@ -1,0 +1,73 @@
+﻿Nazwa: Correlation between Posture & Personality Trait
+Strona: Kaggle (https://www.kaggle.com/datasets/dhanasekarjaisankar/correlation-between-posture-personality-trait?fbclid=IwAR2J1KiBN349NmNM-8NVUZZJLevrPG4l6QtPgk96A9XQcjPDbDHub2Lyv4M )
+
+
+O zbiorze:
+Zawodowy ból pleców jest zaburzeniem, które często wpływa na populację pracującą, skutkuje niepełnosprawnością, korzystaniem z opieki zdrowotnej i ciężkim obciążeniem społeczno-ekonomicznym. Chociaż etiologia bólu zawodowego pozostaje w dużej mierze nierozwiązana, istnieją anegdotyczne dowody na wkład osobowości i postawy w długotrwałe zarządzanie bólem, wskazujące na bezpośredni wkład osi umysł-ciało. W obecnym badaniu przeprowadziliśmy obszerną ocenę relacji między postawą a osobowością. 
+
+
+Open-source( open access jeżeli chodzi o edycje, powielanie, cytowanie)
+
+
+Nie ma braków danych- 0 znajdujące się w zbiorze są umyślne i stanowią wynik otrzymany w skalach od 0 do iluś tam(np. danej cechy w teście MBTI)
+
+
+Zbiór jest tidy
+
+
+Na ten moment nie widze, żeby dane musiały zostać wyczyszczone
+
+
+
+
+
+
+Metoda
+Przebadaliśmy losową populację 100 badanych (50 mężczyzn i 50 kobiet) w przedziale wiekowym od 13 do 82 lat na podstawie ich osobowości i profili biomechanicznych. Wszyscy badani byli francusko-kanadyjczykami, mieszkającymi w Kanadzie pomiędzy obszarami Quebec i Sorel-Tracy. Analizy i raport programu Biotonix wykorzystano na badanych osobach w celu rozróżnienia odchyleń postawy ciała. Osobowość została określona za pomocą kwestionariusza Myers-Briggs Type Indicator.
+
+
+Wyniki
+Ustanawiamy korelację między pozycjami idealnymi i kifozy-lordozy a ekstrawertycznymi osobowościami. Odwrotnie, nasze badania ustanawiają korelacyjny związek między płaskimi plecami i kołysaniem się postawy z introwertycznymi osobowościami.
+Data publikacji badania
+2012 rok
+
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037450
+
+
+O zmiennych:
+* wyniki z typów osobowości MBTI przedstawione zostały za pomocą kombinacji liter [Extraversion(ekstrawersja), Introversion(introwersja), Sensing(poznanie), Intuition(intuicja), Thinking(myślenie), Feeling(odczuwanie), Judging(osądzanie, Perceiving(obserwacja) oraz cyfr od 0 do 26
+* typ osobowości MBTI
+* Skala bólu składa się z numerów od 0 do 10
+* Postura ciała składa się z kategorii: A(idealna postura), B(kifoza-lordoza), C(plecy płaskie), D(postawa sway-back, kołysząca się)
+* Rodzaje bólu: Pain 1( ból w odcinku  szyjnym), Pain 2(ból w odcinku piersiowym), Pain 3( ból w odcinku lędźwiowym), Pain 4(ból w odcinku krzyżowym)
+* Poziom aktywności fizycznej- niski, umiarkowany, wysoki
+* Wzrost
+* Waga
+* Wiek
+* Płeć- Female/ Male
+
+
+Jakie zależności można zbadać?
+* między poziomem aktywności a bólem 
+* między poziomem aktywności a typem osobowości
+* między typem osobowości a bólem
+* między posturą ciała a bólem
+* między posturą ciała a typem osobowości
+* między wagą a bólem
+* między płcią a aktywnością 
+* Informacje o badaniu
+* ból pleców to choroba XXI wieku, statystyki, ma to wpływ na jakość życia, jest skorelowany z naszym stylem życia 
+* postura ciała odgrywa dużą rolę jeżeli chodzi o ból pleców
+* Postawa odgrywa znaczącą rolę w bólu pleców i odnosi się do naszego dynamicznego, regulowanego i elastycznego pozycjonowania w otoczeniu [6], [7]. Każdy segment ciała ma środek masy, a poszczególne segmenty tworzą złożony środek masy, który z kolei tworzy środek ciężkości [8], co pomaga w utrzymaniu równowagi ciała przy minimalnym wysiłku. Jednak niewspółosiowość niektórych segmentów ciała w wyniku odchylenia postawy powoduje kompensacyjny wysiłek innych segmentów ciała w celu utrzymania równowagi ciała, co skutkuje napięciem mięśni i obciążeniem układu nerwowego oraz bólem pleców [9], [10]. Według Kendall i Kendall, istnieją cztery główne typy postawy. Pierwsza postawa to idealna postawa, druga to kifoza-lordoza, trzecia to płaskie plecy, a czwarta to kołysanie się [11]. Wydaje się, że ciało kształtuje się w różnych postawach w zależności od leżącego u jego podstaw stanu psychicznego i emocjonalnego, ustanawiając w ten sposób bezpośrednie połączenie osi i postawy ciała-umysłu [12].
+* coś o tych typach osobowości
+* Previous research has shown that happy thoughts lead to more upright postures, while sad thoughts lead to slumped and hunched positions [16]. In turn, upright, posture can alleviate depression by improving breathing. This lead to increased oxygen levels in the blood and subsequently relieves muscular tension in the shoulders [17]. However, the exact mechanism of how posture affects our moods is not well understood. Hence, the purpose of the current study was to identify whether a relationship exists between posture and personality and in turn whether it has predictive value for back pain. The BioPrint system was used to predict posture of subjects based on Kendall and Kendall's classification and the data was integrated to the findings of the Myers-Briggs analyses. Our studies establish a direct relationship between posture and personality and a correlative relationship between personality, posture and pain. Importantly, our data significantly points to a strong interplay of conscious sensation and involuntary actions, reiterating the prevalence of the mind-body axis.
+* Our results establish a correlative relationship between each type of posture and the combination of two personality type dimensions. Interestingly, as opposed to common belief that a good posture precludes the body to be straight, tight, and rigid, when actually our results indicate that the opposite is true Personalities that are less flexible and adaptable may correlate with a posture that is less flexible and relaxed. Therefore, a decrease in number of Adaptable Extraverts preferences was present in each of the four different postures considered. According to Kendall and Kendall [11], muscles are most relaxed and less contracted in the ideal posture. Our results corroborate the same. Of note, our results did not reveal any relation between mental processes and posture types.
+* 22% of the subjects tested had a good posture and 19 out of the 22 subjects did not have back pain. Recent studies have investigated how personality types and psychosocial stress influence the functioning of the biomechanical system and subsequent spine loading [18]. Introverts appeared to have one of the largest reactions to psychosocial stress, demonstrating increases in normalized compression and lateral shear [15].
+* Our work adds to the growing intuition that developing a good personality is truly an attempt to elevate the status of our posture and vice versa [20].
+* W badaniu uwzględniliśmy MBTI ze względu na szeroki zakres jego zastosowania. Główną wadą MBTI jest to, że mierzy część psychiki związaną ze świadomością i zachowaniami poznawczymi, a nie motywacjami, a zatem wyniki mogą zostać błędnie zinterpretowane, jeśli nie zostaną odpowiednio przeanalizowane. Aby wykluczyć stronniczość z naszych analiz i późniejszych interpretacji, użyliśmy również typu Enneagram [21] i uzyskaliśmy podobne wyniki (dane nie pokazane). Spośród dziewięciu typów enneagramu większość skoncentrowano w jednym lub dwóch typach MBTI. Inną formą jest Neuroticism-Extroversion-Openness Inventory (NEO PI-R) z 240 różnymi aspektami osobowości [22]. W badaniu porównawczym systemu NEO PI-R i MBTI stwierdzono, że nie korelują one w większości aspektów [21], [22]. Należy zauważyć, że poziom aktywności nie był kontrolowany w naszym projekcie badania i może to być ważna zmienna przy określaniu typu postawy (np. u osób siedzących). Dlatego przyszłe badania skupią się na hierarchicznych regresjach wielokrotnych lub modelowaniu równań strukturalnych, które pozwolą nam przeprowadzić iteracyjny cykl testowania i wdrażania systemów, co ostatecznie pomoże nam w praktycznej realizacji korzyści płynących z wyników badań. Przyszłe przedsięwzięcia będą również badać, czy zmiana postawy poprzez ćwiczenia i świadomość wpływa również na typ osobowości. Jednocześnie to, jak taka przebudowa wpłynie na osobowość w dłuższej perspektywie, określi wykonalność takiego alternatywnego, ale racjonalnego podejścia.
+* ideal posture - characterized by neutral position of the head, pelvis and hips, small lordosis of the neck, dorsal kyphosis, and lumbar lordosis
+* kyphosis-lordosis posture - characterized by forward projection of head, hyperextension of the neck, dorsal hyper-kyphosis, lumbar hyper-lordosis, anterior pelvic tilt, and slight dorsal flexion and hyperextension of the knees
+* flat back posture - characterized by hyperextension of the hips and knees along with flat lumbar curvature
+* sway-back posture - characterized by hyperextension of hips, knees and forward of ankles, and decreased lumbar curvature.
+* All data are expressed as the mean ± SD and were analyzed using stated student t-test or non-linear regression analysis. Chi-square was used to make decisions about whether a relationship between two or more variables existed. ‘p’ value<0.05 were considered significant
