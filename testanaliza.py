@@ -44,6 +44,8 @@ data['SEX'] = data['SEX'].astype('category')
 data['POSTURE']= data['POSTURE'].astype('category')
 # print(data['POSTURE'])
 
+data['MBTI']= data['MBTI'].astype('category') 
+
 data.WEIGHT= data.WEIGHT*0.454 #przekonwertowałam funty na kg
 
 data.HEIGHT= data.HEIGHT*2.54 #przekonwertowałam cale na cm
